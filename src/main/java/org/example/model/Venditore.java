@@ -1,6 +1,7 @@
 package org.example.model;
 
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.example.model.UserRole;
 
 @Document(collection = "venditori")
 public class Venditore extends UtenteLoggato {
