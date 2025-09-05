@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VptsInfio version="20080410">
+	<Option lastSelectedFilePath="" lastSelectedRepository=""/>
+	<Repositories>
+		<Repository encrypted_password="4bYzLNRisIVRmHILbUbg8Q==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="" proxyPort="0" serverHost="szbhvljs" twFileFeatureSupport="true" useProxy="false" userDisplayName="Maristella" userName="maristella.cichella@studenti.unicam.it">
+			<ClientPermission allow="false" name="allowAccessLockedContent"/>
+			<ClientPermission allow="true" name="manageReferenceProject"/>
+			<ClientPermission allow="true" name="changeProjectOptions"/>
+			<ClientPermission allow="true" name="configProjectStereotype"/>
+			<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+			<ClientPermission allow="true" name="configRequirements"/>
+			<ClientPermission allow="true" name="configProjectManagementLookups"/>
+			<ClientPermission allow="true" name="configViewpoints"/>
+			<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+			<ClientPermission allow="false" name="configUxStatus"/>
+			<ClientPermission allow="true" name="designPattern"/>
+			<ClientPermission allow="true" name="changeDocTemplate"/>
+			<ClientPermission allow="false" name="manageProjectPublish"/>
+			<ClientPermission allow="false" name="configAutoMirrorModelElement"/>
+			<ClientPermission allow="false" name="customProcessCanvas"/>
+			<ClientPermission allow="true" name="createTag"/>
+			<ClientPermission allow="true" name="createBranch"/>
+			<ClientPermission allow="true" name="mergeBranch"/>
+			<ClientPermission allow="true" name="deleteBranch"/>
+			<Checksum value="8ad1a8fdf6f4c86fd13312bd159b76a9"/>
+		</Repository>
+	</Repositories>
+	<Projects>
+		<Project checkedOut="true" dateTime="1757096745732" filePath="projects/IDS/IDS.vpp" lastLocalStatus="2" lastLocalStatusProjectModifiedDate="1757096732673" lastServerRevision="17" name="IDS" origVppMd5="7cf4cd8d0315b3d46464715fc090e328" revision="18" workingCopyName="IDS">
+			<Repository encrypted_password="4bYzLNRisIVRmHILbUbg8Q==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="" proxyPort="0" serverHost="szbhvljs" twFileFeatureSupport="true" useProxy="false" userDisplayName="Maristella" userName="maristella.cichella@studenti.unicam.it">
+				<ClientPermission allow="false" name="allowAccessLockedContent"/>
+				<ClientPermission allow="true" name="manageReferenceProject"/>
+				<ClientPermission allow="true" name="changeProjectOptions"/>
+				<ClientPermission allow="true" name="configProjectStereotype"/>
+				<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+				<ClientPermission allow="true" name="configRequirements"/>
+				<ClientPermission allow="true" name="configProjectManagementLookups"/>
+				<ClientPermission allow="true" name="configViewpoints"/>
+				<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+				<ClientPermission allow="false" name="configUxStatus"/>
+				<ClientPermission allow="true" name="designPattern"/>
+				<ClientPermission allow="true" name="changeDocTemplate"/>
+				<ClientPermission allow="false" name="manageProjectPublish"/>
+				<ClientPermission allow="false" name="configAutoMirrorModelElement"/>
+				<ClientPermission allow="false" name="customProcessCanvas"/>
+				<ClientPermission allow="true" name="createTag"/>
+				<ClientPermission allow="true" name="createBranch"/>
+				<ClientPermission allow="true" name="mergeBranch"/>
+				<ClientPermission allow="true" name="deleteBranch"/>
+				<Checksum value="8ad1a8fdf6f4c86fd13312bd159b76a9"/>
+			</Repository>
+			<ProjectUserPermission>
+				<ClientPermission allow="false" name="allowAccessLockedContent"/>
+				<ClientPermission allow="true" name="manageReferenceProject"/>
+				<ClientPermission allow="true" name="changeProjectOptions"/>
+				<ClientPermission allow="true" name="configProjectStereotype"/>
+				<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+				<ClientPermission allow="true" name="configRequirements"/>
+				<ClientPermission allow="true" name="configProjectManagementLookups"/>
+				<ClientPermission allow="true" name="configViewpoints"/>
+				<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+				<ClientPermission allow="false" name="configUxStatus"/>
+				<ClientPermission allow="true" name="designPattern"/>
+				<ClientPermission allow="true" name="changeDocTemplate"/>
+				<ClientPermission allow="false" name="manageProjectPublish"/>
+				<ClientPermission allow="false" name="configAutoMirrorModelElement"/>
+				<ClientPermission allow="false" name="customProcessCanvas"/>
+				<ClientPermission allow="true" name="createTag"/>
+				<ClientPermission allow="true" name="createBranch"/>
+				<ClientPermission allow="true" name="mergeBranch"/>
+				<ClientPermission allow="true" name="deleteBranch"/>
+				<Checksum value="ff2cc74836394677babf51a744cde4ac"/>
+			</ProjectUserPermission>
+			<ProjectInfo projectDescription="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 12px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" projectDisplayName="IDS" projectId="A4qiXumFS_j20A2E" projectIntId="1" projectName="IDS" version="18"/>
+		</Project>
+	</Projects>
+</VptsInfio>
